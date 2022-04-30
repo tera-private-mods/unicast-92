@@ -1,0 +1,17 @@
+{
+	"enabled": true,
+	"online": false,
+	"ignoreChangers": false,
+	"ignoreAbnormals": false,
+	"ignorePets": false,
+	"hidePetNames": false,
+	"ignoreRainbow": false,
+	"blockIdles": false,
+	"browserHeight": 720,
+	"minChangerValue": -10,
+	"maxChangerValue": 10,
+	"theme": "Pink Frosting",
+	"camera": 0,
+	"ignoreMarrow": false,
+	"mutePets": false
+}
