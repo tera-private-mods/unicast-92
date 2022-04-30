@@ -2,7 +2,7 @@
     "files": {
         "config.json": "218c09a76c4430ea8d6518da5d9c611639232044f87caa7d9ffc230d3a372349",
         "index.js": "d3a42530e1266de818789551566f7bf5f17cbfcd76fd8958f817cdf6c164a3ed",
-        "module.json": "7a3a51063419e32f8703ead2c7aef1d8c8a04952476d4757dd4fc5349588bdb6",
+        "module.json": "6b716c9fd426185a78b8d31e8a261f191fdeaadb614cd6fa06fd72bcf76f9932",
         "node_modules/async-limiter/LICENSE": "e5a57cdd72e279910183799153134d0e749a5664fc459c8eacbecf72532b7db3",
         "node_modules/async-limiter/index.js": "d1d2c39b1020b964acdc78963912a5ddd95833b43fff4e50a5d7923781af2941",
         "node_modules/async-limiter/package.json": "c53534408cf68bbf7c3ec610a2aaf31afb104f6153725b055d62b8299be64ac5",

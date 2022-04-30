@@ -10,5 +10,5 @@
         "niceName": "Unicast Offline"
     },
     "servers": ["http://git.dev.hsdn.org/tera-v92/unicast/raw/master/"],
-    "drmKey": "YOUR_DRMKEY_HERE"
+    "drmKey": ""
 }
