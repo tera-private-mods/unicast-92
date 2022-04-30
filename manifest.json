@@ -60,16 +60,16 @@
         "ui/js/vue.js": "ee174358243b91381b1dff8fd33cfdaf0c072fb6c66c2e0bbf2228b3b03ae3be",
         "ui/json/aeros.json": "240a899f7ae15200682f13d7bf761740810964fcb0d17722d9ee28bdf42d0515",
         "ui/json/decals.json": "7b1df203ccec60977ee7b5a179d73d592358712542b5ce02e4507af5735ef85c",
-        "ui/json/eu/data.json": "df77d66ad434d217fe1b6407c4e567b1b76afd1ba2159c0cc75e4331a8f944f6",
-        "ui/json/eu/dupes.json": "a6e3feb66863a030029060a352ec3834d03a2b43efee119f47ffe56a76370002",
-        "ui/json/eu/misc.json": "ae13ea65e90c1f7dae88c6a7244b2d05a52850f54186fc6ef6eca876d60503a4",
+        "ui/json/eu/data.json": "66b08a49274dbfb1e1821075993c10d1a428817870b0aaaba2b496db36003536",
+        "ui/json/eu/dupes.json": "d02b259e13a39eaf2c44a912f79efd26fb273279b621250792871f5be832f81c",
+        "ui/json/eu/misc.json": "deb9d3155b3e52048ab3326fd56e9c266b058e1f751feaa148a7375a6c7cabf1",
         "ui/json/jp/data.json": "9de730f5233e6d0b21269285704ea4d306ef98c3185bf282b7d1344d1a27d96a",
         "ui/json/jp/dupes.json": "260e1375006ed65d9706f22b75ac2bbb574eb6d41d26027432a1a766003ff1e8",
         "ui/json/jp/misc.json": "007dfee0ee8762299aaa2f9ca2c2ab141e46446c72faeccd0e250b51328c1f43",
-        "ui/json/mobs.json": "400e2cdf0572995ba1139697e76f33a0e7b4bf068906edca7c19f465bb5a055e",
-        "ui/json/na/data.json": "e6167acf15adc82256e5dcf7bd746072e00843702f1e3be06c83e30207b4ab5e",
-        "ui/json/na/dupes.json": "989896c88c133278d70ee662f7ce5192cf2a8815a689f19dca6abcac6584f47b",
-        "ui/json/na/misc.json": "f3b0309a569a49564a35e9e38b4e7d6a79624ff58248bb4e1b3d5553660f89d9",
-        "ui/json/normies.json": "da0adb5d6c1a6dd0b32f90f988372cdb9d327e31b88954adb8eda3ea08eb9319"
+        "ui/json/mobs.json": "65a806f1bf208130f4fe0ba98bb1ff7e6cd5631720e72ccb81f4a86e21f8b689",
+        "ui/json/na/data.json": "749f2b401543804e4697cb1d7cfa090b1e52903375d33a76ebab2a267e19c2aa",
+        "ui/json/na/dupes.json": "b3fc46b8fb986c80f2a7c587b694ffc6412fb5e3a946981e208658d760f9961d",
+        "ui/json/na/misc.json": "7d7d0af2d4a443d79a3605cfbfc48a3173191221463bce0af18a9904f0ac75a7",
+        "ui/json/normies.json": "1de02fa9a140c886faebc1fff44cc071a84b9bbfd9428a2b90212de6d5897d4f"
     }
 }

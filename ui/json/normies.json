@@ -115,26 +115,6 @@
 		"name": "Darkan's Wings",
 		"icon": "descentofdarkness_tex"
 	},
-	"97950013": {
-		"id": 97950013,
-		"name": "Darkan's Azure Wings",
-		"icon": "descentofdarkness1_tex"
-	},
-	"97950014": {
-		"id": 97950014,
-		"name": "Darkan's Verdant Wings",
-		"icon": "descentofdarkness2_tex"
-	},
-	"97950015": {
-		"id": 97950015,
-		"name": "Darkan's Midnight Wings",
-		"icon": "descentofdarkness3_tex"
-	},
-	"97950016": {
-		"id": 97950016,
-		"name": "Darkan's Heartfire Wings",
-		"icon": "descentofdarkness4_tex"
-	},
 	"999001024": {
 		"id": 999001024,
 		"name": "Fire Heart",
