@@ -1,6 +1,9 @@
 {
     "files": {
-        "config.json": "8e4d7a42e6f7a6cf40df13f4d09be9b135a6cdaf56be69466ec996bb220712c1",
+        "config.json": {
+            "overwrite": false,
+            "hash": "8e4d7a42e6f7a6cf40df13f4d09be9b135a6cdaf56be69466ec996bb220712c1"
+        },
         "index.js": "873d86ddf4aa4e37835f971d7c42f4bbd9d42ccf273484302032f4d3aa6ad17e",
         "module.json": "6b716c9fd426185a78b8d31e8a261f191fdeaadb614cd6fa06fd72bcf76f9932",
         "node_modules/async-limiter/LICENSE": "e5a57cdd72e279910183799153134d0e749a5664fc459c8eacbecf72532b7db3",
