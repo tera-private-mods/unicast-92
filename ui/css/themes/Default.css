@@ -14,7 +14,7 @@ html {
     font-style: normal;
     font-weight: 300;
     src: local('Open Sans Regular'), local('OpenSans-Regular'),
-        url('http://144.217.242.90:8080/fonts/open-sans-v17-latin-regular.svg#OpenSans') format('svg');
+        url('http://tera.dev.hsdn.org/unicast-data/fonts/open-sans-v17-latin-regular.svg#OpenSans') format('svg');
 }
 
 body,
@@ -580,7 +580,7 @@ input:checked+.switch-slider:before {
     border-radius: 5px;
     border: 2px solid rgba(100, 100, 100, 0.60);
     box-shadow: 0px 3px 9px 1px rgba(0, 0, 0, 0.20);
-    background: url(http://144.217.242.90:8080/icons/dye_result_random_tex.png);
+    background: url(http://tera.dev.hsdn.org/unicast-data/icons/dye_result_random_tex.png);
     background-size: 32px;
     position: absolute;
     top: 3;
@@ -604,7 +604,7 @@ input:checked+.switch-slider:before {
     border-radius: 5px;
     border: 2px solid rgba(100, 100, 100, 0.60);
     box-shadow: 0px 3px 9px 1px rgba(0, 0, 0, 0.20);
-    background: url(http://144.217.242.90:8080/icons/dye_result_random_tex.png);
+    background: url(http://tera.dev.hsdn.org/unicast-data/icons/dye_result_random_tex.png);
     background-size: 32px;
     position: absolute;
     top: 3;
@@ -707,7 +707,7 @@ input:checked+.switch-slider:before {
 }
 
 .swapper {
-    background-image: url(http://144.217.242.90:8080/slots/swap.png);
+    background-image: url(http://tera.dev.hsdn.org/unicast-data/slots/swap.png);
     background-size: 36px;
     position: absolute;
     top: 0px;
@@ -864,7 +864,7 @@ input:checked+.switch-slider:before {
 
 .logo {
     height: 100%;
-    background-image: url(http://144.217.242.90:8080/slots/unicast.png);
+    background-image: url(http://tera.dev.hsdn.org/unicast-data/slots/unicast.png);
     background-repeat: no-repeat;
     background-size: 64px;
     background-position: 100% 98%;
