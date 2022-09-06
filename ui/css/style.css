@@ -519,7 +519,7 @@ h2:first-child{
 }
 
 .dye-costume {
-    background: url(http://tera.dev.hsdn.org/unicast-data/icons/dye_result_random_tex.png);
+    background: url(https://gitlab.com/hsdn/tera-unicast-data/-/raw/master/icons/dye_result_random_tex.png);
     background-size: 32px;
     position: absolute;
     top: 16;
@@ -530,7 +530,7 @@ h2:first-child{
 }
 
 .dye-costume-slot {
-    background-image: url(http://tera.dev.hsdn.org/unicast-data/slots/slot.png);
+    background-image: url(https://gitlab.com/hsdn/tera-unicast-data/-/raw/master/slots/slot.png);
     background-size: 32px;
     position: absolute;
     top: 16;
@@ -550,7 +550,7 @@ h2:first-child{
 }
 
 .equipped-slot {
-    background-image: url(http://tera.dev.hsdn.org/unicast-data/slots/slot.png);
+    background-image: url(https://gitlab.com/hsdn/tera-unicast-data/-/raw/master/slots/slot.png);
     position: absolute;
     top: 0;
     left: 0;
@@ -572,7 +572,7 @@ h2:first-child{
 }
 
 .equipped-slot-gear {
-    background-image: url(http://tera.dev.hsdn.org/unicast-data/slots/slot.png);
+    background-image: url(https://gitlab.com/hsdn/tera-unicast-data/-/raw/master/slots/slot.png);
     position: absolute;
     top: 0;
     left: 356;
@@ -582,7 +582,7 @@ h2:first-child{
 }
 
 .dye-gear {
-    background: url(http://tera.dev.hsdn.org/unicast-data/icons/dye_result_random_tex.png);
+    background: url(https://gitlab.com/hsdn/tera-unicast-data/-/raw/master/icons/dye_result_random_tex.png);
     background-size: 32px;
     position: absolute;
     top: 16;
@@ -593,7 +593,7 @@ h2:first-child{
 }
 
 .dye-gear-slot {
-    background-image: url(http://tera.dev.hsdn.org/unicast-data/slots/slot.png);
+    background-image: url(https://gitlab.com/hsdn/tera-unicast-data/-/raw/master/slots/slot.png);
     background-size: 32px;
     position: absolute;
     top: 16;
@@ -686,7 +686,7 @@ left: -225px;
 }
 
 .swapper {
-  background-image: url(http://tera.dev.hsdn.org/unicast-data/slots/swap.png);
+  background-image: url(https://gitlab.com/hsdn/tera-unicast-data/-/raw/master/slots/swap.png);
   background-size: 48px;
   position: absolute;
   top: 10px;
@@ -713,7 +713,7 @@ left: -225px;
 }
 
 .equipped-container {
-  background-image: url(http://tera.dev.hsdn.org/unicast-data/slots/unicast.png);
+  background-image: url(https://gitlab.com/hsdn/tera-unicast-data/-/raw/master/slots/unicast.png);
   background-repeat: no-repeat;
   background-size: 64px;
   background-position: 100% 100%
