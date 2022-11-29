@@ -9,6 +9,6 @@
     "options": {
         "niceName": "Unicast Offline (patch 92)"
     },
-    "servers": ["https://raw.githubusercontent.com/tera-private-mods/unicast-92/master/"],
+    "servers": ["https://raw.githubusercontent.com/tera-private-mods/unicast-92/master/","https://git.teramods.ml/tera-v92/unicast/raw/master/"],
     "drmKey": ""
 }
