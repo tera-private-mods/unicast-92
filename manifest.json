@@ -5,7 +5,7 @@
             "hash": "8e4d7a42e6f7a6cf40df13f4d09be9b135a6cdaf56be69466ec996bb220712c1"
         },
         "index.js": "873d86ddf4aa4e37835f971d7c42f4bbd9d42ccf273484302032f4d3aa6ad17e",
-        "module.json": "8f9ed66a90f7ac67a03e596bfa02287272e2ea845add8f1747402aed5f1648ae",
+        "module.json": "4caf7686efa97ba9241aa568283b1d761ea3eda594c472b10020ee3cc6391232",
         "node_modules/async-limiter/LICENSE": "e5a57cdd72e279910183799153134d0e749a5664fc459c8eacbecf72532b7db3",
         "node_modules/async-limiter/index.js": "d1d2c39b1020b964acdc78963912a5ddd95833b43fff4e50a5d7923781af2941",
         "node_modules/async-limiter/package.json": "c53534408cf68bbf7c3ec610a2aaf31afb104f6153725b055d62b8299be64ac5",
