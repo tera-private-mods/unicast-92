@@ -545,7 +545,7 @@
                     </div>
                 </form>
                 <div class="separator"
-                    v-if="ws_unicast.styleBody == 0 || (ws_unicast.styleBody > 0 && !unidata.items[ws_unicast.styleBody].nameable)">
+                    v-if="ws_unicast.styleBody == 0 || (ws_unicast.styleBody > 0 && unidata.items[ws_unicast.styleBody] && !unidata.items[ws_unicast.styleBody].nameable)">
                 </div>
                 <!-- Weapon glow -->
                 <div class="container-a">
