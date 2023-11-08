@@ -309,7 +309,7 @@
                         <div class="dye-costume-slot">
                             <div class="dye-costume-popup">
                                 <chrome-picker v-model="dyeSlots.styleHeadDye"
-                                    @input="updateKey('styleHeadDye', $event.target.value)" />
+                                    @input="dyeSlot('styleHeadDye', $event.hexT)" />
                             </div>
                         </div>
                     </template>
@@ -336,7 +336,8 @@
                         <div class="dye-costume"></div>
                         <div class="dye-costume-slot">
                             <div class="dye-costume-popup">
-                                <chrome-picker v-model="dyeSlots.styleFaceDye" />
+                                <chrome-picker v-model="dyeSlots.styleFaceDye"
+                                    @input="dyeSlot('styleFaceDye', $event.hexT)" />
                             </div>
                         </div>
                     </template>
@@ -374,7 +375,8 @@
                         <div class="dye-gear"></div>
                         <div class="dye-gear-slot">
                             <div class="dye-gear-popup">
-                                <chrome-picker v-model="dyeSlots.bodyDye" />
+                                <chrome-picker v-model="dyeSlots.bodyDye"
+                                    @input="dyeSlot('bodyDye', $event.hexT)" />
                             </div>
                         </div>
                     </template>
@@ -403,7 +405,8 @@
                         <div class="dye-costume"></div>
                         <div class="dye-costume-slot">
                             <div class="dye-costume-popup">
-                                <chrome-picker v-model="dyeSlots.styleWeaponDye" />
+                                <chrome-picker v-model="dyeSlots.styleWeaponDye"
+                                    @input="dyeSlot('styleWeaponDye', $event.hexT)" />
                             </div>
                         </div>
                     </template>
@@ -412,7 +415,8 @@
                         <div class="dye-gear"></div>
                         <div class="dye-gear-slot">
                             <div class="dye-gear-popup">
-                                <chrome-picker v-model="dyeSlots.weaponDye" />
+                                <chrome-picker v-model="dyeSlots.weaponDye"
+                                    @input="dyeSlot('weaponDye', $event.hexT)" />
                             </div>
                         </div>
                     </template>
@@ -439,7 +443,8 @@
                         <div class="dye-costume"></div>
                         <div class="dye-costume-slot">
                             <div class="dye-costume-popup">
-                                <chrome-picker v-model="dyeSlots.styleBackDye" />
+                                <chrome-picker v-model="dyeSlots.styleBackDye"
+                                    @input="dyeSlot('styleBackDye', $event.hexT)" />
                             </div>
                         </div>
                     </template>
@@ -447,7 +452,8 @@
                         <div class="dye-gear"></div>
                         <div class="dye-gear-slot">
                             <div class="dye-gear-popup">
-                                <chrome-picker v-model="dyeSlots.handDye" />
+                                <chrome-picker v-model="dyeSlots.handDye"
+                                    @input="dyeSlot('handDye', $event.hexT)" />
                             </div>
                         </div>
                     </template>
@@ -475,7 +481,8 @@
                         <div class="dye-gear"></div>
                         <div class="dye-gear-slot">
                             <div class="dye-gear-popup">
-                                <chrome-picker v-model="dyeSlots.feetDye" />
+                                <chrome-picker v-model="dyeSlots.feetDye"
+                                    @input="dyeSlot('feetDye', $event.hexT)" />
                             </div>
                         </div>
                     </template>
