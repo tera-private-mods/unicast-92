@@ -14,7 +14,11 @@ html {
     font-style: normal;
     font-weight: 300;
     src: local('Open Sans Regular'), local('OpenSans-Regular'),
-        url('http://tera.dev.hsdn.org/unicast-data/fonts/open-sans-v17-latin-regular.svg#OpenSans') format('svg');
+        url('https://static.teragame.su/unicast-data/fonts/open-sans-v17-latin-regular.svg#OpenSans') format('svg');
+}
+
+[v-cloak] {
+    display: none;
 }
 
 body,
@@ -433,6 +437,24 @@ input[type=number] {
     width: 100%;
 }
 
+.section h2{
+    text-align: left;
+    margin-bottom: 3px;
+    font-size: 20px;
+    width: 100%;
+}
+
+.section {
+    width: 100%;
+    border-bottom: 1px solid rgb(83, 83, 83);
+    padding-bottom: 30px;
+}
+
+.section > .slider-container > btn {
+    margin-right: 0;;
+    margin-left: auto;
+}
+
 .app-slider {
     -webkit-appearance: none;
     vertical-align: middle;
@@ -580,7 +602,7 @@ input:checked+.switch-slider:before {
     border-radius: 5px;
     border: 2px solid rgba(100, 100, 100, 0.60);
     box-shadow: 0px 3px 9px 1px rgba(0, 0, 0, 0.20);
-    background: url(http://tera.dev.hsdn.org/unicast-data/icons/dye_result_random_tex.png);
+    background: url(https://static.teragame.su/unicast-data/icons/dye_result_random_tex.png);
     background-size: 32px;
     position: absolute;
     top: 3;
@@ -604,7 +626,7 @@ input:checked+.switch-slider:before {
     border-radius: 5px;
     border: 2px solid rgba(100, 100, 100, 0.60);
     box-shadow: 0px 3px 9px 1px rgba(0, 0, 0, 0.20);
-    background: url(http://tera.dev.hsdn.org/unicast-data/icons/dye_result_random_tex.png);
+    background: url(https://static.teragame.su/unicast-data/icons/dye_result_random_tex.png);
     background-size: 32px;
     position: absolute;
     top: 3;
@@ -707,7 +729,7 @@ input:checked+.switch-slider:before {
 }
 
 .swapper {
-    background-image: url(http://tera.dev.hsdn.org/unicast-data/slots/swap.png);
+    background-image: url(https://static.teragame.su/unicast-data/slots/swap.png);
     background-size: 36px;
     position: absolute;
     top: 0px;
@@ -864,8 +886,24 @@ input:checked+.switch-slider:before {
 
 .logo {
     height: 100%;
-    background-image: url(http://tera.dev.hsdn.org/unicast-data/slots/unicast.png);
+    background-image: url(https://static.teragame.su/unicast-data/slots/unicast.png);
     background-repeat: no-repeat;
     background-size: 64px;
     background-position: 100% 98%;
+}
+
+.notice {
+    margin-top: 40px;
+}
+
+.notice-text {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #D8D8D8;
+    color: black;
+    padding: 0;
+    text-align: center;
+    font-size: 0.8em;
+    z-index: 9999;
 }
